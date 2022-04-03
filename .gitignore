@@ -1,0 +1,3 @@
+# exclude everything except directory BadGameEngine
+*.a
+!/BadGameEngine/Engine
