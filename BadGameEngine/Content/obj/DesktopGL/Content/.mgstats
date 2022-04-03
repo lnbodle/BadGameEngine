@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/linob/Desktop/Projets/BadGameEngine/BadGameEngine/Content/arial.spritefont","c:/Users/linob/Desktop/Projets/BadGameEngine/BadGameEngine/Content/bin/DesktopGL/Content/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,3551143
+"c:/Users/linob/Desktop/Projets/BadGameEngine/BadGameEngine/Content/test.png","c:/Users/linob/Desktop/Projets/BadGameEngine/BadGameEngine/Content/bin/DesktopGL/Content/test.xnb","TextureProcessor","Texture2DContent",297,4181,0,0099064
