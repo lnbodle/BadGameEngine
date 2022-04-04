@@ -1,5 +1,9 @@
-# exclude everything except directory BadGameEngine
-/*
-!/BadGameEngine
-/BadGameEngine/*
+*
+
+# But not these files...
+!.gitignore
 !/BadGameEngine/Engine
+# etc...
+
+# ...even if they are in subdirectories
+!*/
