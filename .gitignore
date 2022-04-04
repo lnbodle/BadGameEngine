@@ -3,6 +3,4 @@
 # But not these files...
 !.gitignore
  /*
-!/BadGameEngine
-/BadGameEngine/*
-!/BadGameEngine/Engine
+!/Engine
