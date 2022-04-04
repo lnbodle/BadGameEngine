@@ -2,8 +2,3 @@
 
 # But not these files...
 !.gitignore
-!/BadGameEngine/Engine
-# etc...
-
-# ...even if they are in subdirectories
-!*/
